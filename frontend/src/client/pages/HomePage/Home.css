@@ -1,0 +1,20 @@
+.home_route_bar {
+  margin-top: 100px;
+  color: rgb(255, 162, 0);
+}
+
+@media only screen and (max-width: 280px) {
+  .img {
+    margin-left: 30px;
+    height: 300px;
+  }
+  .button {
+    width: 300px !important;
+    margin-left: 55px !important;
+  }
+  .text{
+    font-size: 14px !important;
+    margin-left: 50px !important;
+    width: 100% !important;
+  }
+}

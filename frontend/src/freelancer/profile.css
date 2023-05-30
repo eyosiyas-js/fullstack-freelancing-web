@@ -1,0 +1,8 @@
+.profile_route_bar{
+    margin-top: 100px;
+}
+
+.input:focus{
+  outline: 3px solid #F27405;
+  
+}
